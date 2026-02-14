@@ -2,7 +2,7 @@
 // @name         UseClipboard
 // @namespace    http://tampermonkey.net/
 // @version      2026-01-22
-// @description  Make creating exams a little easier
+// @description  Make creating exams on the RELIAS platform a little easier when using copy-n-paste. See ReadMe for full
 // @author       Nick M (https://connect.relias.com/s/profile/005RM00000AQ7Cz) @ Relias Connect Groups
 // @homepageURL  https://github.com/KahalaNuiNick/TM-ReliasExam
 // @match        *://*.reliaslearning.com/*
